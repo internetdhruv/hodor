@@ -2,7 +2,6 @@
 
 body {
   margin: 0;
-  font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url('https://vignette.wikia.nocookie.net/gameofthrones/images/5/50/Winterfell_Exterior.jpg/revision/latest?cb=20110705175851');
@@ -11,7 +10,9 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-color: #464646;
-  background-size: cover;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
 }
 
 code {
