@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "009edc26fc9e52e2d20582d0f9ce900c",
+    "revision": "0f50b26c10bde665f891df0fb45d4266",
     "url": "/hodor/index.html"
   },
   {
-    "revision": "a5254e68ffc33be8360e",
-    "url": "/hodor/static/css/main.44d7deb2.chunk.css"
+    "revision": "627934f3968d9fa40583",
+    "url": "/hodor/static/css/main.9557f947.chunk.css"
   },
   {
     "revision": "e3e1726d43da044c5a6a",
     "url": "/hodor/static/js/2.7cddf10a.chunk.js"
   },
   {
-    "revision": "a5254e68ffc33be8360e",
+    "revision": "627934f3968d9fa40583",
     "url": "/hodor/static/js/main.1504f68d.chunk.js"
   },
   {

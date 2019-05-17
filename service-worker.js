@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hodor/precache-manifest.8de782d243886d047290a4a987594218.js"
+  "/hodor/precache-manifest.6acecd45028085ceb3142ed80b05f24c.js"
 );
 
 self.addEventListener('message', (event) => {

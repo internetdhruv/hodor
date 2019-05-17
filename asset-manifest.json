@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hodor/static/css/main.44d7deb2.chunk.css",
+    "main.css": "/hodor/static/css/main.9557f947.chunk.css",
     "main.js": "/hodor/static/js/main.1504f68d.chunk.js",
     "main.js.map": "/hodor/static/js/main.1504f68d.chunk.js.map",
     "runtime~main.js": "/hodor/static/js/runtime~main.28e68efb.js",
@@ -8,8 +8,8 @@
     "static/js/2.7cddf10a.chunk.js": "/hodor/static/js/2.7cddf10a.chunk.js",
     "static/js/2.7cddf10a.chunk.js.map": "/hodor/static/js/2.7cddf10a.chunk.js.map",
     "index.html": "/hodor/index.html",
-    "precache-manifest.8de782d243886d047290a4a987594218.js": "/hodor/precache-manifest.8de782d243886d047290a4a987594218.js",
+    "precache-manifest.6acecd45028085ceb3142ed80b05f24c.js": "/hodor/precache-manifest.6acecd45028085ceb3142ed80b05f24c.js",
     "service-worker.js": "/hodor/service-worker.js",
-    "static/css/main.44d7deb2.chunk.css.map": "/hodor/static/css/main.44d7deb2.chunk.css.map"
+    "static/css/main.9557f947.chunk.css.map": "/hodor/static/css/main.9557f947.chunk.css.map"
   }
 }
