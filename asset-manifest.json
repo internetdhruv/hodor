@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hodor/static/css/main.1b435e8d.chunk.css",
+    "main.js": "/hodor/static/js/main.45381252.chunk.js",
+    "main.js.map": "/hodor/static/js/main.45381252.chunk.js.map",
+    "runtime~main.js": "/hodor/static/js/runtime~main.28e68efb.js",
+    "runtime~main.js.map": "/hodor/static/js/runtime~main.28e68efb.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/hodor/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/hodor/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/hodor/index.html",
+    "precache-manifest.7c202ca5f07a5366d1dcb2b58701f4db.js": "/hodor/precache-manifest.7c202ca5f07a5366d1dcb2b58701f4db.js",
+    "service-worker.js": "/hodor/service-worker.js",
+    "static/css/main.1b435e8d.chunk.css.map": "/hodor/static/css/main.1b435e8d.chunk.css.map"
+  }
+}
