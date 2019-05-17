@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
   margin: 0;
@@ -15,12 +15,7 @@ body {
 }
 
 code {
-  font-family: 'Cinzel Decorative', cursive;
-}
-@media only screen and (max-width: 320px) {
-
-  body { 
-     font-size: 2em; 
-  }
-
+  /* font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", */
+    /* monospace; */
+  font-family: 'Robota';
 }

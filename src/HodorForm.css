@@ -1,0 +1,24 @@
+::-webkit-input-placeholder {
+    text-align: center;
+ }
+ 
+ :-moz-placeholder { /* Firefox 18- */
+    text-align: center;  
+ }
+ 
+ ::-moz-placeholder {  /* Firefox 19+ */
+    text-align: center;  
+ }
+ 
+ :-ms-input-placeholder {  
+    text-align: center; 
+ }
+
+ .buttonStyle {
+   border:1px solid gray;
+   border-radius:7%;
+   font-size: 2vw;
+   word-wrap: break-word;
+   max-width: 300%;
+   font-family: 'Times New Roman', Times, serif
+  }
